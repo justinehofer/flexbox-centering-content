@@ -24,3 +24,9 @@ h1 {
   color: #fff; 
   text-align: center;
 }
+
+@media screen and (min-width: 786px) {
+    h1 {
+      font-size: 3em;
+    }
+  }
