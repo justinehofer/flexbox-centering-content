@@ -10,4 +10,5 @@ body {
     align-items: center;
     background: url('../img/wow.png') bottom center no-repeat;
     background-size: cover;
+    font-size: 1em;
 }
