@@ -12,3 +12,9 @@ body {
     background-size: cover;
     font-size: 1em;
 }
+
+.centered { 
+    padding: 0 3.125em;
+    font-family:'Montserrat', sans-serif; 
+    background: #f16059; 
+  }
